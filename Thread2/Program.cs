@@ -4,7 +4,7 @@ using System.Threading;
 
 namespace Thread2
 {
-    class Program
+    class Program  
     {
         static void Main(string[] args)
         {
